@@ -11,3 +11,4 @@ This is a simple static website showcasing a collection of recipes. The project 
 
 - HTML
 - CSS
+- Something else
